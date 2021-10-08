@@ -1,7 +1,8 @@
 ### Hey, Coders <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ujjwal
 
+### <div align="center"> Python Developer, Linux Administrator, Technical Writter </div>
 
-## ⚡ About Me:
+## ⚡ About Me
 
 - I am currently pursuing B.Tech in Computer Science and Engineering(2019-2023) from Bengal Institute of Technology
 
@@ -24,6 +25,11 @@
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+
+<br>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ujjwalkar0)](https://github.com/ujjwalkar0/github-profile-trophy)
 
 
 <!---
