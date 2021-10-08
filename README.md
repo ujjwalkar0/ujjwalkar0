@@ -1,11 +1,7 @@
-### Hey, Coders <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey, Coders <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ujjwal
 
-<h2 align="center">I'm Ujjwal </h2>
-<h3 align="center">Python Developer | Linux Administrator | Technical Writer </h3>
-<hr> 
 
 ## ⚡ About Me:
-<hr>
 
 - I am currently pursuing B.Tech in Computer Science and Engineering(2019-2023) from Bengal Institute of Technology
 
@@ -13,20 +9,14 @@
 
 - I’m looking for **Hackathons** 
 
-<hr>
 
 ## Experience:
-<hr>
 
 * <b>Joint Secretary</b>, `<hack-it-on>`, Official technical club of Bengal Institute of Technology
 
 * <b> Technical Content Writer :</b> Geek Culture, MLearning.ai, Nerd For Tech publication at Medium
 
-<hr>
-
 ## Languages and Tools:
-
-<hr>
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
