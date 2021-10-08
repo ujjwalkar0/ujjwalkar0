@@ -60,12 +60,12 @@
 <img align="left" alt="opencv" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
 
 
-<img align="left" alt="arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
+<img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 
-<img align="left" alt="arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png" />
+<img align="left" alt="arch" width="26px" src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png" />
 
-<img align="left" alt="arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
-" />
+
+<img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
 
 <br>
