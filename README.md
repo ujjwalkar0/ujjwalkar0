@@ -1,7 +1,7 @@
 ### Hey, Coders <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <h2 align="center">I'm Ujjwal </h2>
-<h3 align="center">Python Developer | Linux Administrator | Technical Writer
+<h3 align="center">Python Developer | Linux Administrator | Technical Writer </h3>
 <hr> 
 
 ## ⚡ About Me:
