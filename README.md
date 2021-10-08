@@ -1,6 +1,9 @@
 ### Hey, Coders <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ujjwal
 
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width=100%>
+
 ### <div align="center"> Python Developer, Linux Administrator, Technical Writter </div>
+
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
