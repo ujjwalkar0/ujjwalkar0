@@ -2,6 +2,8 @@
 
 ### <div align="center"> Python Developer, Linux Administrator, Technical Writter </div>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ## ⚡ About Me
 
 - I am currently pursuing B.Tech in Computer Science and Engineering(2019-2023) from Bengal Institute of Technology
