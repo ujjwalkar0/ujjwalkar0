@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/55041104/136643713-4cf8338e-2f59-4e2a-ad3b-df62f829e927.png)
 
-### Hey, Coders <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ujjwal
+### Hey, Coders <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ujjwal 😃
 
 <!-- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width=100% height=30%> -->
 
@@ -11,12 +11,13 @@
 
 ## ⚡ About Me
 
-- I am currently pursuing B.Tech in Computer Science and Engineering(2019-2023) from Bengal Institute of Technology
+- 👨‍🎓 I am currently pursuing B.Tech in Computer Science and Engineering(2019-2023) from Bengal Institute of Technology
 
-- I’m looking to contribute on open source repository that are using Python or Linux Script
+- 👨‍💼 I’m looking to contribute on open source repository that are using Python or Linux Script
 
-- I’m looking for **Hackathons** 
+- 💻 I’m looking for **Hackathons** 
 
+- 💜 I love to watch movies, listening song and keep interest in mythology as science fiction
 
 ## Experience:
 
@@ -26,7 +27,7 @@
 
 ## Languages and Tools:
 
-<img align="left" alt="Python" width="26px" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="26px" style="margin:15px 0px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
