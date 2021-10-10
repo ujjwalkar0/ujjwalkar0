@@ -115,6 +115,21 @@
 <img alt="linux" width="50px" style="padding:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
 <img width="20px"/>
+  
+<img alt="jupyter" width="50px" style="padding:10px" src="https://jupyter.org/assets/main-logo.svg" />
+
+  <img width="20px"/>
+  
+<img alt="colab" width="50px" style="padding:10px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
+
+ <img width="20px"/>
+  
+<img alt="vi editor" width="50px" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />
+
+ <img width="20px"/>
+  
+<img alt="vscode" width="50px" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
+
 
 <br>
 </div>
