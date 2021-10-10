@@ -26,6 +26,7 @@
 * <b> Technical Content Writer :</b> Geek Culture, MLearning.ai, Nerd For Tech publication at Medium
 
 ## Languages and Tools:
+<div>
 
 <img align="left" alt="Python" width="26px" style="margin:15px 0px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
@@ -74,5 +75,8 @@
 
 <img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
-
 <br>
+</div>
+<div style="margin:200px 0">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalkar0" >
+ </div>
