@@ -4,7 +4,7 @@
 
 <!-- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width=100% height=30%> -->
 
-### <div align="center"> Python Developer, Linux Administrator, Technical Writter </div>
+### <div align="center"> Python Developer, Linux Administrator, Technical Writter, Self-motivator, Technology Lover </div>
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
