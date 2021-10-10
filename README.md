@@ -21,6 +21,7 @@
 
 ## Experience:
 
+
 * <b>Joint Secretary</b>, `<hack-it-on>`, Official technical club of Bengal Institute of Technology
 
 * <b> Technical Content Writer :</b> Geek Culture, MLearning.ai, Nerd For Tech publication at Medium
@@ -78,6 +79,7 @@
 
 <br>
 </div>
-<div style="margin:200px 0" align="right">
- </div>
-</div>
+
+## Projects:
+
+1. <b>Authenticate Shopee</b>, a global e-commerce website prototype, supporting sellers, customers and delivery person. A price predictor using machine learning is made and embeded with every page to know if the product is costly or cheap. <br> <b> Technologies Used : </b> Django, scikit-learn <br> <b> Source Code : </b> https://github.com/ujjwalkar0/Authenticate-Shopee-Website 
