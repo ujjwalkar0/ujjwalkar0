@@ -96,6 +96,15 @@
 
 3. DoctorMirror, e-Medical web prototype where doctors, nurses, ambulances, hospitals can register for patients to find them.  <br> <b> Technologies Used : </b> Django  <br> <b> Source Code : </b>  https://github.com/ujjwalkar0/Doctormirror
 
+## Github Stats:
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujjwalkar0&theme=dracula" />
+
+<div>
+  <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=ujjwalkar0&count_private=true&show_icons=true&theme=dracula">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalkar0&theme=dracula" />
+</div>
+
 ## Check out my Repositories
 
 <div>
@@ -118,12 +127,4 @@
   
 </div>
 
-## Github Stats:
 
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujjwalkar0&theme=dracula" />
-
-<div>
-  <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=ujjwalkar0&count_private=true&show_icons=true&theme=dracula">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalkar0&theme=dracula" />
-</div>
