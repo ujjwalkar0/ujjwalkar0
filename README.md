@@ -96,6 +96,27 @@
 
 3. DoctorMirror, e-Medical web prototype where doctors, nurses, ambulances, hospitals can register for patients to find them.  <br> <b> Technologies Used : </b> Django  <br> <b> Source Code : </b>  https://github.com/ujjwalkar0/Doctormirror
 
+## Check out my Repositories
+
+<div>
+  <a href="https://github.com/ujjwalkar0/Doctormirror">
+    <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=Doctormirror&theme=dracula">
+  </a>
+
+  <a href="https://github.com/ujjwalkar0/Authenticate-Shopee">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=Authenticate-Shopee&theme=dracula">
+  </a>
+
+  <a href="https://github.com/ujjwalkar0/Garuda">
+    <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=Garuda&theme=dracula">
+  </a>
+
+  <a href="https://github.com/ujjwalkar0/OCRHDR">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=OCRHDR&theme=dracula">
+  </a>
+
+  
+</div>
 
 ## Github Stats:
 
