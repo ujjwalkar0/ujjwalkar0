@@ -15,7 +15,7 @@
 
 - 👨‍💼 I’m looking to contribute on open source repository that are using Python or Linux Script
 
-- 💻 I’m looking for **Hackathons** 
+<!-- - 💻 I’m looking for **Hackathons** -->
 
 - 💜 I love to watch movies, listening song and keep interest in mythology as science fiction
 
