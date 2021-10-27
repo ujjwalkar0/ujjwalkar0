@@ -88,14 +88,6 @@
 <br>
 </div>
 
-## Projects:
-
-1. <b>Trash Plastic Detection system under ocean</b>, comes with both CLI and web versions to extract plastic images from a video. Embedded computers with Satellites, drones, submarines, etc. detect and send pictures of trash plastic to a database using this program.  <br> <b> Technologies Used : </b> Darknet, yolo, opencv, django, colab lab etc. <br> <b> Source Code : </b> https://github.com/ujjwalkar0/Garuda
-
-2. <b>Authenticate Shopee</b>, a global e-commerce website prototype, supporting sellers, customers and delivery person. A price predictor using machine learning is made and embeded with every page to know if the product is costly or cheap. <br> <b> Technologies Used : </b> Django, scikit-learn <br> <b> Source Code : </b> https://github.com/ujjwalkar0/Authenticate-Shopee-Website 
-
-3. DoctorMirror, e-Medical web prototype where doctors, nurses, ambulances, hospitals can register for patients to find them.  <br> <b> Technologies Used : </b> Django  <br> <b> Source Code : </b>  https://github.com/ujjwalkar0/Doctormirror
-
 ## Github Stats:
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujjwalkar0&theme=dracula" />
