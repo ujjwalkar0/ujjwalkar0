@@ -96,27 +96,3 @@
   <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=ujjwalkar0&count_private=true&show_icons=true&theme=dracula">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalkar0&theme=dracula" />
 </div>
-
-## Check out my Repositories
-
-<div>
-  <a href="https://github.com/ujjwalkar0/Doctormirror">
-    <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=Doctormirror&theme=dracula">
-  </a>
-
-  <a href="https://github.com/ujjwalkar0/Authenticate-Shopee">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=Authenticate-Shopee&theme=dracula">
-  </a>
-
-  <a href="https://github.com/ujjwalkar0/Garuda">
-    <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=Garuda&theme=dracula">
-  </a>
-
-  <a href="https://github.com/ujjwalkar0/OCRHDR">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=OCRHDR&theme=dracula">
-  </a>
-
-  
-</div>
-
-
