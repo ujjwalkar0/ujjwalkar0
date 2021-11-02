@@ -39,8 +39,8 @@
 
 <img alt="JavaScript" width="50px" style="padding:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img alt="JQuery" width="50px" style="padding:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
-
+<!-- <img alt="JQuery" width="50px" style="padding:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
+ -->
 <img alt="bootstrap" width="50px" style="padding:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
 <img alt="Django" width="50px" style="padding:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
@@ -55,8 +55,8 @@
 
 <img alt="matplotlib" width="50px" style="padding:10px" src="https://matplotlib.org/_static/logo2_compressed.svg" />
 
-<img alt="kivy" width="50px" style="padding:10px" src="https://raw.githubusercontent.com/github/explore/5d823171791ab9e6bc894aea5b350c996febf511/topics/kivy/kivy.png" />
-
+<!-- <img alt="kivy" width="50px" style="padding:10px" src="https://raw.githubusercontent.com/github/explore/5d823171791ab9e6bc894aea5b350c996febf511/topics/kivy/kivy.png" />
+ -->
 <img alt="github" width="50px" style="padding:10px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img alt="docker" width="50px" style="padding:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
