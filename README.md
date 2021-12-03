@@ -26,6 +26,11 @@
 
 * <b> Technical Content Writer :</b> Geek Culture, MLearning.ai, Nerd For Tech publication at Medium
 
+
+## Open Source Contribution:
+1. <a href="https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/commits?author=ujjwalkar0">GDSC-RCCIIT/General-Purpose-Scripts</a>: I made a script installer for installing a script under General Purpose Scripts, by a single command
+
+
 ## Languages and Tools:
 <div>
 <img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalkar0&langs_count=10&layout=compact&theme=dracula" >
