@@ -27,12 +27,6 @@
 * <b> Technical Content Writer :</b> Geek Culture, MLearning.ai, Nerd For Tech publication at Medium
 
 
-## Open Source Contribution:
-
-<a href="https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/commits?author=ujjwalkar0">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=General-Purpose-Scripts&show_icons=true&theme=dracula">
-</a>
-
 ## Languages and Tools:
 <div>
 <img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalkar0&langs_count=10&layout=compact&theme=dracula" >
@@ -103,6 +97,13 @@
   <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=ujjwalkar0&count_private=true&show_icons=true&theme=dracula">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalkar0&theme=dracula" />
 </div>
+
+## Open Source Contribution:
+
+<a href="https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/commits?author=ujjwalkar0">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=General-Purpose-Scripts&show_icons=true&theme=dracula">
+</a>
+
 
 ## GitLab Repositories:
 
