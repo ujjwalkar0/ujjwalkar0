@@ -28,8 +28,10 @@
 
 
 ## Open Source Contribution:
-1. <a href="https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/commits?author=ujjwalkar0">GDSC-RCCIIT/General-Purpose-Scripts</a>: I made a script installer for installing a script under General Purpose Scripts, by a single command
 
+<a href="https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/commits?author=ujjwalkar0">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=General-Purpose-Scripts&show_icons=true&theme=dracula">
+</a>
 
 ## Languages and Tools:
 <div>
