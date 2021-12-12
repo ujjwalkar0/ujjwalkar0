@@ -100,14 +100,14 @@
 
 ## PyPI Packages:
 
+<div>
 <a href="https://github.com/ujjwalkar0/gpscript">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=gpscript&show_icons=true&theme=dracula&show_owner=ujjwal">
 </a>
-
+  
 <a href="https://github.com/ujjwalkar0/object_detector">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=object_detector&show_icons=true&theme=dracula&show_owner=ujjwal">
+    <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=object_detector&show_icons=true&theme=dracula&show_owner=ujjwal">
 </a>
-
 
 ## Open Source Contribution:
 
