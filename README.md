@@ -101,3 +101,9 @@
   <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=ujjwalkar0&count_private=true&show_icons=true&theme=dracula">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalkar0&theme=dracula" />
 </div>
+
+## GitLab Repositories:
+
+<a href="https://gitlab.com/ujjwalkar0/find-in-30-second">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=Find-In-30Sec&show_icons=true&theme=dracula&show_owner=ujjwal">
+</a>
