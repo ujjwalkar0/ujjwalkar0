@@ -11,14 +11,16 @@
 
 ## ⚡ About Me
 
-- 👨‍🎓 I am currently pursuing B.Tech in Computer Science and Engineering(2019-2023) from Bengal Institute of Technology
+ Hi, myself Ujjwal Kar, 3rd year of B.Tech in Engineering from Bengal Institute of Technology, Kolkata. I feel very enthusiastic to explore new ideas, learn new technologies and imagine the future. My skills with hands-on-experience are in Django, HTML, CSS, Javascript, Linux, Github, Docker. I have worked on various python libraries includes Numpy, Pandas, Matplotlib, Tkinter etc, and created various python module, available on PyPi. Currently I am working Machine Learning etc. I am also Interested on Internet of Things, Argunmened and Virtual Reality, Robotics etc. 
+
+<!-- - 👨‍🎓 I am currently pursuing B.Tech in Computer Science and Engineering(2019-2023) from Bengal Institute of Technology
 
 - 👨‍💼 I’m looking to contribute on open source repository that are using Python or Linux Script
 
-<!-- - 💻 I’m looking for **Hackathons** -->
+<!-- - 💻 I’m looking for **Hackathons** 
 
 - 💜 I love to watch movies, listening song and keep interest in mythology as science fiction
-
+ -->
 ## Experience:
 
 
