@@ -118,8 +118,9 @@
 </a>
 
 
-## GitLab Repositories:
+<!-- ## GitLab Repositories:
 
 <a href="https://gitlab.com/ujjwalkar0/find-in-30-second">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=Find-In-30Sec&show_icons=true&theme=dracula&show_owner=ujjwal">
 </a>
+ -->
