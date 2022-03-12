@@ -32,7 +32,7 @@
  ## Open Source Contribution:
 
 <a href="https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/commits?author=ujjwalkar0">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=General-Purpose-Scripts&show_icons=true&theme=dracula">
+    <img width="43%" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=General-Purpose-Scripts&show_icons=true&theme=dracula">
 </a>
 
 
