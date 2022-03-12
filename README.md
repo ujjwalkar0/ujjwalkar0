@@ -21,12 +21,19 @@
 
 - 💜 I love to watch movies, listening song and keep interest in mythology as science fiction
  -->
-## Experience:
+<!-- ## Experience:
 
 
 * <b>Joint Secretary</b>, `<hack-it-on>`, Official technical club of Bengal Institute of Technology
 
 * <b> Technical Content Writer :</b> Geek Culture, MLearning.ai, Nerd For Tech publication at Medium
+ -->
+ 
+ ## Open Source Contribution:
+
+<a href="https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/commits?author=ujjwalkar0">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=General-Purpose-Scripts&show_icons=true&theme=dracula">
+</a>
 
 
 ## Languages and Tools:
@@ -111,11 +118,6 @@
     <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=object_detector&show_icons=true&theme=dracula&show_owner=ujjwal">
 </a>
 
-## Open Source Contribution:
-
-<a href="https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/commits?author=ujjwalkar0">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=General-Purpose-Scripts&show_icons=true&theme=dracula">
-</a>
 
 
 <!-- ## GitLab Repositories:
