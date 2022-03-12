@@ -32,7 +32,19 @@
  ## Open Source Contribution:
 
 <a href="https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/commits?author=ujjwalkar0">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=General-Purpose-Scripts&show_icons=true&theme=dracula">
+    <img width="73%" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=General-Purpose-Scripts&show_icons=true&theme=dracula">
+</a>
+
+
+## PyPI Packages:
+
+<div>
+<a href="https://github.com/ujjwalkar0/gpscript">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=gpscript&show_icons=true&theme=dracula&show_owner=ujjwal">
+</a>
+  
+<a href="https://github.com/ujjwalkar0/object_detector">
+    <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=object_detector&show_icons=true&theme=dracula&show_owner=ujjwal">
 </a>
 
 
@@ -107,16 +119,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalkar0&theme=dracula" />
 </div>
 
-## PyPI Packages:
-
-<div>
-<a href="https://github.com/ujjwalkar0/gpscript">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=gpscript&show_icons=true&theme=dracula&show_owner=ujjwal">
-</a>
-  
-<a href="https://github.com/ujjwalkar0/object_detector">
-    <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=object_detector&show_icons=true&theme=dracula&show_owner=ujjwal">
-</a>
 
 
 
