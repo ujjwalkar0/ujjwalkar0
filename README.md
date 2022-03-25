@@ -20,13 +20,13 @@ Hi, myself Ujjwal Kar. I feel very enthusiastic to explore technologies. I have 
 
 * <b> <a href="https://github.com/ujjwalkar0/My-Data-Science-Works"> See My Data Science Repositories </a> </b>
 
- ## Open Source Contribution:
+<!--  ## Open Source Contribution:
 
 <a href="https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/commits?author=ujjwalkar0">
     <img width="100%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=General-Purpose-Scripts&show_icons=true&theme=dracula">
 </a>
-
-
+ -->
+<!-- 
 ## PyPI Packages:
 
 <div>
@@ -38,7 +38,7 @@ Hi, myself Ujjwal Kar. I feel very enthusiastic to explore technologies. I have 
     <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=object_detector&show_icons=true&theme=dracula&show_owner=ujjwal">
 </a>
 
-
+ -->
 ## Languages and Tools:
 
  <img width="100%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalkar0&langs_count=10&layout=compact&theme=dracula" >
