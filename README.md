@@ -10,13 +10,13 @@
 ## ⚡ About Me
 
 
-Hi, myself Ujjwal Kar. I feel very enthusiastic to explore technologies. I have done projects in both hardware and software with Python, Arduino, Django, and other python libraries. 
+Hi, myself Ujjwal Kar. I feel very enthusiastic to explore technologies and gain some practical knowledge. I have done projects in both hardware and software with Machine Learning, Python, Arduino, Django, and other python libraries. 
 
 * I leads many team projects of hackathons where we achieved 3rd position on the sih internal hackathon and top 20th position of SRIIH. 
 
 * I have published my own python packages on PyPI, technical blogs on medium.
 
-* Currently, I am working on Some machine Learning projects, doing some research work on LiFi technology, and looking for an Internship.
+* Currently, I am doing some research work with machine Learning and LiFi communication, and looking for an Internship.
 
 * <b> <a href="https://github.com/ujjwalkar0/My-Data-Science-Works"> See My Data Science Repositories </a> </b>
 
