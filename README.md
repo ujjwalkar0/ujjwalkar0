@@ -2,7 +2,6 @@
 
 ### Hey, Coders I'm Ujjwal 😃
 
-### <div align="center"> Data Scientist </div>
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
