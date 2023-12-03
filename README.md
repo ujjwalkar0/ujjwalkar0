@@ -39,11 +39,10 @@ Hi, myself Ujjwal Kar. I feel very enthusiastic to explore technologies and gain
  -->
 ## Languages and Tools:
 
- <img width="100%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalkar0&langs_count=10&layout=compact&theme=dracula" >
-
-## Github Stats:
-
-<img width="100%" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujjwalkar0&theme=dracula" />
+<div>
+<img width="30%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalkar0&langs_count=10&layout=compact&theme=dracula" >
+<img width="60%" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujjwalkar0&theme=dracula" />
+</div>
 
 ## Contributions:
 
