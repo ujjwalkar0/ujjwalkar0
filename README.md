@@ -1,22 +1,17 @@
 ![image](https://user-images.githubusercontent.com/55041104/136643713-4cf8338e-2f59-4e2a-ad3b-df62f829e927.png)
 
-### Hey, Coders I'm Ujjwal 😃
-
-
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+### Hey, Coders! I'm Ujjwal 😃
 
 ## ⚡ About Me
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
 
-Hi, myself Ujjwal Kar. I feel very enthusiastic to explore technologies and gain some practical knowledge. I have done projects in both hardware and software with Machine Learning, Python, Arduino, Django, and other python libraries. 
-
-* I leads many team projects of hackathons where we achieved 3rd position on the sih internal hackathon and top 20th position of SRIIH. 
-
-* I have published my own python packages on PyPI, technical blogs on medium.
-
-* Currently, I am doing some research work on Deep Learning, Clustering, and looking for an Internship.
-
+- I am a **Full Stack Developer** with over **1+ years of experience** in designing, developing, and deploying web applications.
+- My expertise lies in working with **ASP.NET MVC**, **React**, and **RESTful APIs**, with a strong focus on frontend development using JavaScript frameworks.
+- I have a solid foundation in **backend development** and **database management**, ensuring robust and scalable solutions.
+- Hands-on experience in designing **Artificial Intelligence algorithms** and **Exploratory Data Analysis**.
+- Led multiple team projects in hackathons, achieving **3rd position** in the SIH internal hackathon and **top 20th position** in SRIIH.
+- My passion for coding and continuous learning drives me to stay updated with the latest technologies, enabling me to build efficient and innovative web solutions.
 
 <!--  ## Open Source Contribution:
 
@@ -36,7 +31,6 @@ Hi, myself Ujjwal Kar. I feel very enthusiastic to explore technologies and gain
     <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkar0&repo=object_detector&show_icons=true&theme=dracula&show_owner=ujjwal">
 </a>
 
- -->
 ## Languages and Tools:
 
 <div>
@@ -52,4 +46,5 @@ Hi, myself Ujjwal Kar. I feel very enthusiastic to explore technologies and gain
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalkar0&theme=dracula" />
 </div>
 
+ -->
 
