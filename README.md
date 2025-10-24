@@ -6,8 +6,8 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
 
-- I am a **Full Stack Developer** with over **1+ years of experience** in designing, developing, and deploying web applications.
-- My expertise lies in working with **ASP.NET MVC**, **React**, and **RESTful APIs**, with a strong focus on frontend development using JavaScript frameworks.
+- I am a **Full Stack Developer** with over **2+ years of experience** in designing, developing, and deploying web applications.
+- My expertise lies in working with **ASP.NET MVC**, **React**, and **RESTful APIs** with a strong focus on frontend development using JavaScript frameworks.
 - I have a solid foundation in **backend development** and **database management**, ensuring robust and scalable solutions.
 - Hands-on experience in designing **Artificial Intelligence algorithms** and **Exploratory Data Analysis**.
 - Led multiple team projects in hackathons, achieving **3rd position** in the SIH internal hackathon and **top 20th position** in SRIIH.
