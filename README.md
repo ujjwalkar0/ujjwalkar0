@@ -9,12 +9,13 @@
 - I am a **Full Stack Developer** with over **2+ years of experience** in designing, developing, and deploying web applications.
 - My expertise lies in working with **ASP.NET MVC**, **React**, and **RESTful APIs** with a strong focus on frontend development using JavaScript frameworks.
 - I have a solid foundation in **backend development** and **database management**, ensuring robust and scalable solutions.
-- Hands-on experience in designing **Artificial Intelligence algorithms** and **Exploratory Data Analysis** [`@ujjwalkar21`](https://github.com/ujjwalkar21) [![Notebooks](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/ujjwalkar/code)
+- Hands-on experience in designing **Artificial Intelligence algorithms** and **Exploratory Data Analysis** [`@ujjwalkar21`](https://github.com/ujjwalkar21) [![Notebooks](https://img.shields.io/badge/Kaggle-Notebooks-FF671F?logo=kaggle&logoColor=white)](https://www.kaggle.com/ujjwalkar/code)
 
 - Led multiple team projects in hackathons, achieving **3rd position** in the SIH internal hackathon and **top 20th position** in SRIIH.
 - My passion for coding and continuous learning drives me to stay updated with the latest technologies, enabling me to build efficient and innovative web solutions.
 
 
+<!-- 
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/ujjwalkar21" target="_blank">
@@ -29,6 +30,7 @@
   <!-- <a href="https://dev.to/ujjwalkar0" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?&style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a> -->
+  <!-- 
   <a href="https://instagram.com/ujjwalkar21" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
